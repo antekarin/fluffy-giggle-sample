@@ -1,0 +1,14 @@
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PRODUCT_BUNDLE_ID = X
+APP_ICON = X
+APP_NAME = X
+GOOGLE_SERVICE_INFO_PLIST_NAME = X
+API_BASE_URL = X
+TIP_SHARING_URL = X
+TERMS_URL = X
+PRIVACY_URL = X
+BRAZE_API_KEY = X
+SEGMENT_WRITE_KEY = X
+SENTRY_DSN = X
